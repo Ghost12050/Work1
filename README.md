@@ -1,2 +1,2 @@
-# Work1
+# Work
 This is my first work.
